@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://c4.wallpaperflare.com/wallpaper/123/312/5/earth-the-blue-planet-view-from-moon-north-and-south-america-ultra-hd-4k-wallpapers-for-desktop-mobiles-3840%C3%972160-wallpaper-preview.jpg",
+        url: "/image.png",
         height: 630,
         alt: "Where in the World - Country Explorer",
       },
