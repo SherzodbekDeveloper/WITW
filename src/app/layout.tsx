@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Where in the World?",
     description: "Find detailed information about countries and continents. Search, filter, and explore!",
-    url: "https://yourwebsite.com",
+    url: "https://where-in-thee-world.vercel.app/",
     type: "website",
     images: [
       {
