@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import React from 'react'
 
 export const metadata: Metadata = {
-  title: "Countries",
+  title: "Where in the World? - Explore Countries & Continents",
   description: "Discover countries and continents with detailed information, maps, and more. Search and filter by region easily!",
   keywords: "countries, world map, continents, country search, travel, geography, nations, flags",
   openGraph: {
@@ -20,6 +20,7 @@ export const metadata: Metadata = {
     ],
   }
 };
+
 
 function Page() {
   return (
